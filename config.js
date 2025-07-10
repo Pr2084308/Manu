@@ -41,6 +41,6 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'Manu-MD&HF0n2Dpb#652kDgbS-zJKNRihqzIX0Kz9RRJARN4__95eg8irzxk' ,// 'Manu-MD&PNNiAKBJ#fC42bAwYibAlYDLsFytvPoncNDSWiiB5EOdzWSJYjn0', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
+SESSION_ID: process.env.SESSION_ID || 'Manu-MD&nt5XEDbS#_s9ICx1DRXNOIT5hwXd6GdYVtoTQIgpcacEt3UlATBc' ,// 'Manu-MD&PNNiAKBJ#fC42bAwYibAlYDLsFytvPoncNDSWiiB5EOdzWSJYjn0', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
 PORT: process.env.PORT || '3000'
 };
